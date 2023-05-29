@@ -1,0 +1,7 @@
+1 - Install React App
+2 - Install Tailwind CSS
+3 - Install React Router Dom
+4 - Install React Icons
+5 - Correct Tailwindconfig
+6 - Add Component, Context and Page files
+7 - Copy Image Files
